@@ -1,6 +1,6 @@
 ![Banner](https://github.com/malwaredllc/byob/blob/master/byob/static/byob_logo_black.svg)
 
-Questions? [Join the Discord support server](https://discord.gg/8FsSrw7)
+#LOOKING FOR A DEV TO HELP THIS REPO ADD ME ON DISCORD corpse grinder#006
 
 __Disclaimer__: This project should be used for authorized testing or educational purposes only.
 
@@ -114,13 +114,3 @@ packages not installed on the target machines
 6) __Generators__ (`byob.core.generators`): functions which all dynamically generate code for the client generator
 7) __DAO__ (`byob.core.dao`): handles interaction between command & control server and the SQLite database
 8) __Handler__ (`byob.core.handler`): HTTP POST request handler for remote file uploads to the server
-
-________________________________________________________________________________________________
-
-### To Do
-
-*Contributors welcome! Feel free to issue pull-requests with any new features or improvements you have come up with!*
-
-1) __Remote Import Encryption__ - encryption for data streams of packages/modules being remotely imported (to maintain confidentiality/authenticity/integrity and prevent any remote code execution vulnerabilities arising from deserialization)
-2) __Transport Types__ - add support for more transport types (HTTP/S, DNS, etc.)
-3) __Bug Fixes__ - fix any bugs/issues
