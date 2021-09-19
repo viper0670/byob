@@ -1,6 +1,6 @@
 ![Banner](https://github.com/malwaredllc/byob/blob/master/byob/static/byob_logo_black.svg)
 
-#LOOKING FOR A DEV TO HELP THIS REPO ADD ME ON DISCORD corpse grinder#006
+LOOKING FOR A DEV TO HELP THIS REPO ADD ME ON DISCORD corpse grinder#006
 
 __Disclaimer__: This project should be used for authorized testing or educational purposes only.
 
